@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Home Page | Brandname</title>
-<meta name="description" content="">
+<title>WE CREATE GORGEOUS CUSTOM ANIMATION</title>
+<meta name="description" content="Make an irresistible video animation to advertise yourself, boost your engagement and win more likes.">
 <?php
 $srcurl = "includes/";
 $basesurl = "assets/";
@@ -15,7 +15,7 @@ $urhere = "homepage";
 ?>
 </head>
 
-<body class="mode-disabled generic-template services_page">
+<body class="mode-disabled generic-template services_page vdpag" data-val="videoanimation">
 <?php
 $header = $_SERVER['HTTP_HOST']; 
 $header = $srcurl."header.php"; 
@@ -31,27 +31,33 @@ include($header);
   <div class="contain">
     <div class="generic-block section">
       <div id="gtm-hero learn-hero_" class="hidden"></div>
-      <div class="generic-block-wrapper lazy-bg  block block--black block--left generic-block--auto  padding-top-hundred-fifty padding-bottom-hundred-fifty gtm-hero learn-hero clearfix" style="background-image: url('assets/images/gtm-hero-learn-2.jpg'); background-position:center; background-size:cover;background-repeat:no-repeat;">
+      <div class="generic-block-wrapper lazy-bg  block block--black block--left generic-block--auto  padding-top-hundred-fifty padding-bottom-hundred-fifty gtm-hero learn-hero clearfix" style="background-image: url('assets/images/video-animation.png'); background-position:center; background-size:cover;background-repeat:no-repeat;">
         <div class="main clearfix">
           <div class="content clearfix">
             <div class="column-control section">
               <div>
                 <div class="container column-control-container ">
-                  <div class="row large       column-control--super-wide paddingleft70">
+                  <div class="row large column-control--super-wide paddingleft70">
                     <div class="large-7 columns ">
                       <div class="title2 section">
                         <div data-emptytext="Title">
-                          <h1 class="desk-font-size-2 title--ultra newheading" > Don’t just build something. Build the right thing. <img src="assets/images/circle-pink.png"></h1>
+                          <h1 class="desk-font-size-2 title--ultra newheading"> We create gorgeous custom animation <img src="assets/images/circle-pink.png"></h1>
                         </div>
                       </div>
                       <div class="text-4 text section">
                         <div class="cmp-text">
-                          <p><span class="fs--medium"><span class="tc-white">Whether you are a start-up or an enterprise business, our expertise in 360 web and mobile solutions and digital branding will turn your ideas into online success.</span></span></p>
+                          <p><span class="fs--medium"><span class="tc-white">Make an irresistible video animation to advertise yourself, boost your engagement and win more likes.</span></span></p>
+                          <ul>
+                            <li>High-quality video animation at an affordable price</li>
+                            <li>Custom design illustrated storyboard</li>
+                            <li>5000000+ Views of our Videos Worldwide</li>
+                            <li>10000+ Seconds of Video Animated</li>
+                          </ul>
                         </div>
                       </div>
                       <div class="ps-button section">
                         <div data-emptytext="Button">
-                          <div> <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website & grow your business </a> <img src="assets/images/arrow-monies.gif" style="margin: -70px 0 0 -40px;z-index: 9;position: relative;
+                          <div> <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Let’s animate your story today </a> <img src="assets/images/arrow-monies.gif" style="margin: -70px 0 0 -40px;z-index: 9;position: relative;
     width: 60px;"> <img src="assets/images/rateimg.png" style="margin: 0 0 0 5px;"></div>
                         </div>
                       </div>
@@ -105,7 +111,7 @@ include($header);
                                           <div class="video-component  white-black-play-btn video-aem">
                                             <div>
                                               <div class="video-component--custom">
-                                                <img src="assets/images/home-collage-v2.png" alt="Image" /> 
+                                                <img src="assets/images/video-collage-v2.png" alt="Image" /> 
                                               </div>
                                             </div>
                                           </div>
@@ -161,14 +167,14 @@ include($header);
                                         </div>
                                         <div class="title2 section">
                                           <div data-emptytext="Title">
-                                            <h2 class="title--ultra "> We build it with you. </h2>
+                                            <h2 class="title--ultra "> We make Animated Explainer Videos </h2>
                                           </div>
                                         </div>
                                         <div class="text-6 text section">
                                           <div class="cmp-text">
-                                            <img src="assets/images/build-logos-1.png" style="margin: 0 auto 30px;max-width: 60%;display: block;">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">We’ve worked hard to evolve in parallel with web technology, and we don’t play favorites with platforms or tools - we play to win.</span></span></p>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website & grow your business </a> 
+                                            <img src="assets/images/build-video-1.png" style="margin: 0 auto 30px;max-width: 60%;display: block;">
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">We tailor the message to your company’s identity and audience’s needs and that’s why our videos taste different.</span></span></p>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Let’s Design Custom Explainer Video</a> 
                                           </div>
                                         </div>
                                       </div>
@@ -217,7 +223,7 @@ include($header);
 
             <?php
 $portfolio = $_SERVER['HTTP_HOST']; 
-$portfolio = $srcurl."portfolio.php"; 
+$portfolio = $srcurl."portfolio-video.php"; 
 include($portfolio); 
 ?>
 
@@ -233,16 +239,15 @@ include($portfolio);
             <div class="column-control section services_tabs">
 
               <ul class="mytabbing-links">
-                    <li class="current" data-targetit="tabs-wp"> <img src="assets/images/icons/video-animation/video-ad.png"> Video Ad</li>
-                    <li data-targetit="tabs-phpd"> <img src="assets/images/icons/video-animation/marketing-video.png">  Marketing Video</li>
-                    <li data-targetit="tabs-fnd"> <img src="assets/images/icons/video-animation/promo-video.png">  Promo Video</li> 
-                    <li data-targetit="tabs-dd"> <img src="assets/images/icons/video-animation/title-and-trailer.png">  Title & Trailer</li> 
-                    <li data-targetit="tabs-bnd"> <img src="assets/images/icons/video-animation/explainer-video.png">  Explainer Video</li> 
-                    <li data-targetit="tabs-mvp"> <img src="assets/images/icons/video-animation/2d-3d-explainer-animation.png">  2D/3D Explainer Animation</li> 
-                    <li data-targetit="tabs-osd"> <img src="assets/images/icons/video-animation/corporate-video-animation.png">  Corporate Video Animation</li> 
-                    <li data-targetit="tabs-cmsd"> <img src="assets/images/icons/video-animation/inttro-and-outro-animation.png">  Intro & outro Animation</li>   
+              <li class="current" data-targetit="tabs-bnd"> <img src="assets/images/icons/video-animation/explainer-video.png">Explainer Video Animation</li>
+              <li data-targetit="tabs-dd"> <img src="assets/images/icons/video-animation/title-and-trailer.png">  Animated Title & Trailer</li> 
+              <li class="" data-targetit="tabs-wp"> <img src="assets/images/icons/video-animation/2d-3d-explainer-animation.png"> Animated Video Ad</li> 
+              <li data-targetit="tabs-phpd"> <img src="assets/images/icons/video-animation/marketing-video.png">  Marketing/Promo Video Animation</li>
+
+                
+                    
                </ul>
-              <div class="mytabs tabs-wp current">
+              <div class="mytabs tabs-wp current" id="tabs-bnd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -259,7 +264,7 @@ include($portfolio);
                                           <div class="video-component  white-black-play-btn video-aem">
                                             <div>
                                               <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
+                                                <img src="assets/images/explainer-video-animation.png" class="pullright">
                                               </div>
                                             </div>
                                           </div>
@@ -292,20 +297,20 @@ include($portfolio);
                                         </div>
                                         <div class="title2 section">
                                           <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">  Wordpress Development </h2>
+                                            <h2 class="title--ultra ">  Create Video Ads That Get Results </h2>
                                           </div>
                                         </div>
                                         <div class="text-4 text section">
                                           <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Video ads give you the power to reach a wide, targeted audience to boost awareness of your brand and increase sales of your product or service.</span></span></p>
                                             <ul class="newlist">
                                             <li>
                                               <figure>
                                                 <img src="assets/images/iq-test-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
+                                                <h3>Promote a product</h3>
+                                                <p>Sell more stuff with pro video ads. All you have to do is to let us animate a video ad for you and post to social media. It’s really that easy.</p>
                                               </article>
                                             </li>
                                             <li>
@@ -313,8 +318,8 @@ include($portfolio);
                                                  <img src="assets/images/channels-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
+                                                <h3>Sell a service</h3>
+                                                <p>Make your service a success with unstoppable video marketing.  Our Animated Video ads can be crucial in helping you reach new customers.</p>
                                               </article>
                                             </li>
                                             <li>
@@ -322,13 +327,13 @@ include($portfolio);
                                                  <img src="assets/images/hands-on-learning-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
+                                                <h3>Advertise an event</h3>
+                                                <p>Fill more seats with engaging video ads. Personalize your animated video — or a host of others — in the time it takes to read this page.</p>
                                               </article>
                                             </li>
                                           
                                             </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Make an animated video ad </a>
                                           </div>
                                         </div>
                                       </div>
@@ -345,7 +350,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-phpd">
+               <div class="mytabs tabs-phpd" id="tabs-dd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -362,7 +367,7 @@ include($portfolio);
                                           <div class="video-component  white-black-play-btn video-aem">
                                             <div>
                                               <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
+                                                <img src="assets/images/animated-title-trailer.png" class="pullright">
                                               </div>
                                             </div>
                                           </div>
@@ -395,20 +400,20 @@ include($portfolio);
                                         </div>
                                         <div class="title2 section">
                                           <div data-emptytext="Title">
-                                            <h2 class="title--ultra "> PHP Development </h2>
+                                            <h2 class="title--ultra "> Create marketing videos that inspire </h2>
                                           </div>
                                         </div>
                                         <div class="text-4 text section">
                                           <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Every business needs marketing videos – they do wonders to increase traffic and drive sales. We can help you make videos that’ll set your marketing campaign on fire with awe-inspiring content that’s guaranteed to turn viewers into customers.</span></span></p>
                                             <ul class="newlist">
                                             <li>
                                               <figure>
                                                 <img src="assets/images/iq-test-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
+                                                <h3>Market my business</h3>
+                                                <p>Market your business the right way. All you need is a brand and a couple of minutes. Animated with us.</p>
                                               </article>
                                             </li>
                                             <li>
@@ -416,8 +421,8 @@ include($portfolio);
                                                  <img src="assets/images/channels-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
+                                                <h3>Market my product/service</h3>
+                                                <p>See results in no time with a product/service promo. Show people what you have to offer without breaking a sweat.</p>
                                               </article>
                                             </li>
                                             <li>
@@ -425,13 +430,13 @@ include($portfolio);
                                                  <img src="assets/images/hands-on-learning-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
+                                                <h3>Market an event</h3>
+                                                <p>Kick things off before your event even begins with a stylish animated video invitation. Get people hitting that RSVP button in seconds.</p>
                                               </article>
                                             </li>
                                           
                                             </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Market with an animated video </a>
                                           </div>
                                         </div>
                                       </div>
@@ -448,7 +453,8 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-fnd">
+               
+               <div class="mytabs tabs-dd" id="tabs-wp">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -465,7 +471,7 @@ include($portfolio);
                                           <div class="video-component  white-black-play-btn video-aem">
                                             <div>
                                               <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
+                                                <img src="assets/images/animated-video-ad.png" class="pullright">
                                               </div>
                                             </div>
                                           </div>
@@ -498,20 +504,20 @@ include($portfolio);
                                         </div>
                                         <div class="title2 section">
                                           <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   Front End Development </h2>
+                                            <h2 class="title--ultra "> Make a spellbinding trailer </h2>
                                           </div>
                                         </div>
                                         <div class="text-4 text section">
                                           <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin"> Promoting a product or service? Check. Promoting a course or event? Check. Animated your trailer with us to get the job done fast.</span></span></p>
                                             <ul class="newlist">
                                             <li>
                                               <figure>
                                                 <img src="assets/images/iq-test-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
+                                                <h3>Make an editorial trailer</h3>
+                                                <p>Need to market a magazine or a column? Our editorial trailers get the job done. Just discuss your story with us, and you’re set!</p>
                                               </article>
                                             </li>
                                             <li>
@@ -519,8 +525,9 @@ include($portfolio);
                                                  <img src="assets/images/channels-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
+                                                <h3>Make a book trailer</h3>
+                                                <p>Create a book trailer that speaks a thousand words. Whatever style you’re writing, Our professional animators will show your audience what your book is all about.
+</p>
                                               </article>
                                             </li>
                                             <li>
@@ -528,13 +535,14 @@ include($portfolio);
                                                  <img src="assets/images/hands-on-learning-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
+                                                <h3>Make a YouTube channel trailer
+</h3>
+                                                <p>A YouTube channel trailer is a perfect way to give people an idea of your content at a glance – after all, there’s a spot for it on your channel homepage.</p>
                                               </article>
                                             </li>
                                           
                                             </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Make an animated trailer </a>
                                           </div>
                                         </div>
                                       </div>
@@ -551,7 +559,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-dd">
+               <div class="mytabs tabs-bnd" id="tabs-phpd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -568,7 +576,7 @@ include($portfolio);
                                           <div class="video-component  white-black-play-btn video-aem">
                                             <div>
                                               <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
+                                                <img src="assets/images/marketing-promo-video-animation.png" class="pullright">
                                               </div>
                                             </div>
                                           </div>
@@ -601,20 +609,20 @@ include($portfolio);
                                         </div>
                                         <div class="title2 section">
                                           <div data-emptytext="Title">
-                                            <h2 class="title--ultra "> Drupal Development </h2>
+                                            <h2 class="title--ultra ">   We make Animated Explainer Videos </h2>
                                           </div>
                                         </div>
                                         <div class="text-4 text section">
                                           <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Using an animated explainer video can help your company generate leads, reduce bounce rates, foster brand awareness, and increase conversions.</span></span></p>
                                             <ul class="newlist">
                                             <li>
                                               <figure>
                                                 <img src="assets/images/iq-test-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
+                                                <h3>Explain my business</h3>
+                                                <p>Give people the lowdown in seconds. Show them what your brand is about, the easy way.</p>
                                               </article>
                                             </li>
                                             <li>
@@ -622,8 +630,8 @@ include($portfolio);
                                                  <img src="assets/images/channels-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
+                                                <h3>Explain my product/service</h3>
+                                                <p>Have a product or service but have no idea how to market it? This is the perfect starting point.</p>
                                               </article>
                                             </li>
                                             <li>
@@ -631,13 +639,13 @@ include($portfolio);
                                                  <img src="assets/images/hands-on-learning-icon1.png">
                                               </figure>
                                               <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
+                                                <h3>Explain a concept</h3>
+                                                <p>Help people understand an idea with a simple animated video. No boring, lengthy reads here.</p>
                                               </article>
                                             </li>
                                           
                                             </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  make an explainer video today</a>
                                           </div>
                                         </div>
                                       </div>
@@ -654,212 +662,8 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-bnd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   Back End Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-mvp">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   Minimal Viable Products  </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
+              
                <div class="mytabs tabs-osd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
@@ -963,109 +767,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-cmsd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   CMS Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              
 
          
 
@@ -1073,7 +775,7 @@ include($portfolio);
 
            <?php
 $packages = $_SERVER['HTTP_HOST']; 
-$packages = $srcurl."packages.php"; 
+$packages = $srcurl."packages-video.php"; 
 include($packages); 
 ?>
 
@@ -1113,9 +815,11 @@ include($testimonials);
                               <div class="clearfix">
                                 <div class="title2 section">
                                   <div data-emptytext="Title">
-                                    <h2 class="title--white title--ultra disableBottomMargin"> Looking for a custom solution?</h2>
-                                      <p>Expert code is critical — but you can’t build just it and forget it. WebsiteDok keeps you moving and improving with digital innovation. Let’s Discover and Envision what’s next.</p>
-                                      <a href="" target="_self" class="button  button--black 11  " data-aa-title="start-a-free-trial-foot"> Request a free custom quote </a>
+                                    <h2 class="title--white title--ultra disableBottomMargin"> Looking for a custom video animation?
+</h2>
+                                      <p>Our tech experts, flexible and error free process, & unmatched production make us unique. Get in touch with us to get speedy yet quality animation service.
+</p>
+                                      <a href="" target="_self" class="button  button--black 11  " data-aa-title="start-a-free-trial-foot"> Make a custom video animation </a>
                                   </div>
                                 </div>
                               </div>

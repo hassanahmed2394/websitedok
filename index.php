@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Websitedok  +1 973 870 3610  </title>
+<title>WE DON’T JUST BUILD SOMETHING. WE BUILD THE RIGHT THING. | Websitedok Call us now +1 973 870 3610  </title>
 <meta name="description" content="We design and develop technology products and platforms that give you a distinct digital advantage.">
 <?php
 $srcurl = "includes/";
@@ -49,7 +49,7 @@ include($header);
                           <p><span class="fs--medium"><span class="tc-white">We design and develop technology products and platforms that give you a distinct digital advantage.</span></span><br />
                           </p>
                           <ul>
-                          	<li>A custom-designed website - Starting at <strong>$469</strong></li>
+                          	<li>A custom-designed website</li>
                           	<li>Dozens of design concepts to explore</li>
                           	<li>Full copyright and production ready files</li>
                           	<li>100% money back guarantee</li>
@@ -372,7 +372,7 @@ include($portfolio);
         <ul>
           <li>
             <div class="crte-prf">
-              <h3>Looking for a Logo Design Services?</h3>
+              <h3>Looking for a Website Design Services?</h3>
               <p>Get in touch with our 24/7 available representatives now!</p>
             </div>
           </li>

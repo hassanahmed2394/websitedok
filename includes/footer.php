@@ -3,93 +3,38 @@
     <div class="ftr-container">
       <div class="ftr-cat-links-col">
         <div class="ftr-dd">╲╱</div>
-        <div class="ftr-cat-header">Custom Website Development</div>
+        <div class="ftr-cat-header">Services</div>
         <div class="ftr-cat-links">
           <a href="<?php echo $path;?>custom-website-development">Wordpress Development</a>
           <a href="<?php echo $path;?>custom-website-development">Front End Development</a>
           <a href="<?php echo $path;?>custom-website-development">Back End Development</a>
-          <!-- <a href="<?php echo $path;?>ecommerce-solutions.php">Shopify</a>
-          <a href="<?php echo $path;?>ecommerce-solutions.php">Magento</a>
-          <a href="<?php echo $path;?>ecommerce-solutions.php">Opencart</a>
-          <a href="<?php echo $path;?>ecommerce-solutions.php">Woocommerce</a>
-          <a href="<?php echo $path;?>ecommerce-solutions.php">3D Cart</a>
-          <a href="<?php echo $path;?>ecommerce-solutions.php">BigCommerce</a>
-          <a href="<?php echo $path;?>ecommerce-solutions.php">PrestaShop</a>
-          <a href="<?php echo $path;?>ecommerce-solutions.php">Weebly</a>
-          <a href="<?php echo $path;?>brand-design-prototype.php">Low-fidelity wireframe</a>
-          <a href="<?php echo $path;?>brand-design-prototype.php">UI Design</a>
-          <a href="<?php echo $path;?>brand-design-prototype.php">UX Design</a>
-
-
-
-          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype.php">Simulations</a>
-          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype.php">Mock-up</a>
-          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype.php">Sketching</a>
-          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype.php">HTML prototypes.</a>
-          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype.php">Interactive prototypes</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">Custom Software Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">Database Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">PHP Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">Laravel Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">Microsoft .Net Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">Angular Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">React JS</a>
-          <a class="showOnMobile" href="<?php echo $path;?>web-app-development.php">Node JS</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">iOS Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">Android Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">Game Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">Hybrid App Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">VR App Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">AR App Development</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">React Native</a>
-          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development.php">Angular</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">Domain Registration</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">Shared Hosting</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">Dedicated Servers</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">VPS Hosting</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">SSL Certificate</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">Website Optimization</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">Mobile friendly conversions</a>
-          <a class="showOnMobile" href="<?php echo $path;?>website-maintenance.php">Website Maintenance and Management</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">Video Ad</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">Marketing Video</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">Promo Video</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">Title & Trailer</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">Explainer Video</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">2D/3D Explainer Animation</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">Corporate Video Animation</a>
-          <a class="showOnMobile" href="<?php echo $path;?>video-animation.php">Inttro & outro Animation</a> -->
-
-
-          
-        </div>
-      </div>
-      <div class="ftr-cat-links-col hideMobile">
-        <div class="ftr-dd">╲╱</div>
-        <div class="ftr-cat-header">&nbsp;</div>
-        <div class="ftr-cat-links">
           <a href="<?php echo $path;?>custom-website-development"> Open Source Development</a>
           <a href="<?php echo $path;?>custom-website-development">PHP Development</a>
           <a href="<?php echo $path;?>custom-website-development">Drupal Development</a>
+          <a href="<?php echo $path;?>custom-website-development">Minimal Viable Products</a>
+          <a href="<?php echo $path;?>custom-website-development">CMS Development</a>
+          <a href="<?php echo $path;?>ecommerce-solutions">Shopify</a>
           
-          <!-- <a href="<?php echo $path;?>brand-design-prototype.php">Simulations</a>
-          <a href="<?php echo $path;?>brand-design-prototype.php">Mock-up</a>
-          <a href="<?php echo $path;?>brand-design-prototype.php">Sketching</a>
-          <a href="<?php echo $path;?>brand-design-prototype.php">HTML prototypes.</a>
-          <a href="<?php echo $path;?>brand-design-prototype.php">Interactive prototypes</a>
-          <a href="<?php echo $path;?>web-app-development.php">Custom Software Development</a>
-          <a href="<?php echo $path;?>web-app-development.php">Database Development</a>
-          <a href="<?php echo $path;?>web-app-development.php">PHP Development</a>
-          <a href="<?php echo $path;?>web-app-development.php">Laravel Development</a>
-          <a href="<?php echo $path;?>web-app-development.php">Microsoft .Net Development</a>
-          <a href="<?php echo $path;?>web-app-development.php">Angular Development</a>
-          <a href="<?php echo $path;?>web-app-development.php">React JS</a>
-          <a href="<?php echo $path;?>web-app-development.php">Node JS</a>
-          <a href="<?php echo $path;?>mobile-app-development.php">iOS Development</a>
-          <a href="<?php echo $path;?>mobile-app-development.php">Android Development</a>
-          <a href="<?php echo $path;?>mobile-app-development.php">Game Development</a>
-          <a href="<?php echo $path;?>mobile-app-development.php">Hybrid App Development</a>
-          <a href="<?php echo $path;?>mobile-app-development.php">VR App Development</a> -->
+          <a class="showOnMobile" href="<?php echo $path;?>ecommerce-solutions">Magento</a>
+          <a class="showOnMobile" href="<?php echo $path;?>ecommerce-solutions">Opencart</a>
+          <a class="showOnMobile" href="<?php echo $path;?>ecommerce-solutions">Woocommerce</a>
+          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype">Brand Identity</a>
+          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype">UX & UI Design</a>
+          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype">Website Design</a>
+          <a class="showOnMobile" href="<?php echo $path;?>brand-design-prototype">Interactive prototypes</a>    
+          <a class="showOnMobile" href="<?php echo $path;?>web-app-development">Custom Software Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>web-app-development">PHP Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>web-app-development">Laravel Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>web-app-development">Node js Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development">iOS Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development">Android Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development">Game Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>mobile-app-development"> VR/VR App Development</a>
+          <a class="showOnMobile" href="<?php echo $path;?>video-animation">Explainer Video Animation</a>
+          <a class="showOnMobile" href="<?php echo $path;?>video-animation">Animated Title & Trailer</a>
+          <a class="showOnMobile" href="<?php echo $path;?>video-animation">Animated Video Ad</a>
+          <a class="showOnMobile" href="<?php echo $path;?>video-animation">Marketing/Promo Video Animation</a>
+
           
         </div>
       </div>
@@ -97,28 +42,35 @@
         <div class="ftr-dd">╲╱</div>
         <div class="ftr-cat-header">&nbsp;</div>
         <div class="ftr-cat-links">
-        <a href="<?php echo $path;?>custom-website-development">Minimal Viable Products</a>
-          <a href="<?php echo $path;?>custom-website-development">CMS Development</a>
-          <!-- <a href="<?php echo $path;?>mobile-app-development.php">AR App Development</a>
-          <a href="<?php echo $path;?>mobile-app-development.php">React Native</a>
-          <a href="<?php echo $path;?>mobile-app-development.php">Angular</a>
-          <a href="<?php echo $path;?>website-maintenance.php">Domain Registration</a>
-          <a href="<?php echo $path;?>website-maintenance.php">Shared Hosting</a>
-          <a href="<?php echo $path;?>website-maintenance.php">Dedicated Servers</a>
-          <a href="<?php echo $path;?>website-maintenance.php">VPS Hosting</a>
-          <a href="<?php echo $path;?>website-maintenance.php">SSL Certificate</a>
-          <a href="<?php echo $path;?>website-maintenance.php">Website Optimization</a>
-          <a href="<?php echo $path;?>website-maintenance.php">Mobile friendly conversions</a>
-          <a href="<?php echo $path;?>website-maintenance.php">Website Maintenance and Management</a>
-          <a href="<?php echo $path;?>video-animation.php">Video Ad</a>
-          <a href="<?php echo $path;?>video-animation.php">Marketing Video</a>
-          <a href="<?php echo $path;?>video-animation.php">Promo Video</a>
-          <a href="<?php echo $path;?>video-animation.php">Title & Trailer</a>
-          <a href="<?php echo $path;?>video-animation.php">Explainer Video</a>
-          <a href="<?php echo $path;?>video-animation.php">2D/3D Explainer Animation</a>
-          <a href="<?php echo $path;?>video-animation.php">Corporate Video Animation</a>
-          <a href="<?php echo $path;?>video-animation.php">Inttro & outro Animation</a> -->
           
+          <a href="<?php echo $path;?>ecommerce-solutions">Magento</a>
+          <a href="<?php echo $path;?>ecommerce-solutions">Opencart</a>
+          <a href="<?php echo $path;?>ecommerce-solutions">Woocommerce</a>
+          <a href="<?php echo $path;?>brand-design-prototype">Brand Identity</a>
+          <a href="<?php echo $path;?>brand-design-prototype">UX & UI Design</a>
+          <a class="" href="<?php echo $path;?>brand-design-prototype">Website Design</a>
+          <a class="" href="<?php echo $path;?>brand-design-prototype">Interactive prototypes</a>    
+          <a class="" href="<?php echo $path;?>web-app-development">Custom Software Development</a>
+          <a class="" href="<?php echo $path;?>web-app-development">PHP Development</a>
+          <a class="" href="<?php echo $path;?>web-app-development">Laravel Development</a>
+          
+        </div>
+      </div>
+      <div class="ftr-cat-links-col hideMobile">
+        <div class="ftr-dd">╲╱</div>
+        <div class="ftr-cat-header">&nbsp;</div>
+        <div class="ftr-cat-links">
+          
+          
+          <a class="" href="<?php echo $path;?>web-app-development">Node js Development</a>
+          <a class="" href="<?php echo $path;?>mobile-app-development">iOS Development</a>
+          <a class="" href="<?php echo $path;?>mobile-app-development">Android Development</a>
+          <a class="" href="<?php echo $path;?>mobile-app-development">Game Development</a>
+          <a class="" href="<?php echo $path;?>mobile-app-development"> VR/VR App Development</a>
+          <a class="" href="<?php echo $path;?>video-animation">Explainer Video Animation</a>
+          <a class="" href="<?php echo $path;?>video-animation">Animated Title & Trailer</a>
+          <a class="" href="<?php echo $path;?>video-animation">Animated Video Ad</a>
+          <a class="" href="<?php echo $path;?>video-animation">Marketing/Promo Video Animation</a>
           
         </div>
       </div>
@@ -128,33 +80,33 @@
         <div class="ftr-cat-header">Resources</div>
         <div class="ftr-cat-links">
           <a href="<?php echo $path;?>pricing" class="header_nav_secondary">Pricing</a>
+          <a href="<?php echo $path;?>approach" class="header_nav_secondary">Approach</a>
           <a href="<?php echo $path;?>company" class="header_nav_secondary">Company</a>
           <a href="<?php echo $path;?>work" class="header_nav_secondary">Portfolio</a>
         </div>
       </div>
       <div class="ftr-cat-links-col">
         <div class="ftr-dd">╲╱</div>
-        <div class="ftr-cat-header"></div>
+        <div class="ftr-cat-header">Support</div>
         <div class="ftr-cat-links">
           <a href="<?php echo $path;?>contact">Contact</a>
-          <!--<a href="industries">Industries</a>-->
-          <!--<a href="javascript:;">Sitemap</a>-->
-          </div>
+          <a href="<?php echo $path;?>faqs">Faqs </a>
+          <a href="javascript:;">Sitemap</a> </div>
         </div>
         <div class="addrese_sec">
           <article>
             <h3>UNITED STATES</h3>
-            <a href="#">One gateway center, Newark, New Jersey, USA  </a> <a href="#">+1 973 870 3610 </a> </article>
+            <a href="#">One gateway center, Newark, New Jersey, USA  </a> <a href="#"> +1 973 870 3610 </a> </article>
             <article>
               <h3>UNITED KINGDOM</h3>
-              <a href="#">32 London Bridge St London SE1 9SG UK  </a> <a href="#">+44 203 3181 217 </a> </article>
+              <a href="#">32 London Bridge St London SE1 9SG UK  </a> <a href="#">  +44 203 3181 217 </a> </article>
               <article>
                 <img src="assets/images/footer.png" style="    margin: 0 0 0 20px;">
               </article>
               <article class="last">
                 <a href="<?php echo $path;?>contact" class="fotBtn">Contact Us</a>
-                <a href="<?php echo $path;?>order" class="fotBtn secnd">Subscribe</a>
-                <span class="hide-for-medium-only" style="display:none !important"> <a href="javascript:;" class="share__link face-icon" target="_blank" alt="Like on Facebook"></a> <a href="javascript:;" class="share__link insta-icon" target="_blank" alt="Follow on Instagram"></a> <a href="javascript:;" class="share__link tweet-icon" target="_blank" alt="Follow on Twitter"></a> <a href="javascript:;" class="share__link linkedin-icon" target="_blank" alt="Connect on LinkedIn"></a> <a href="javascript:;" class="share__link youtube-icon" target="_blank" alt="Follow us on YouTube"></a> </span> </article>
+                <a href="javascript:;" onclick="setButtonURL();" class="fotBtn secnd">Subscribe</a>
+                <span class="hide-for-medium-only"> <a href="javascript:;" class="share__link face-icon" target="_blank" alt="Like on Facebook"></a> <a href="javascript:;" class="share__link insta-icon" target="_blank" alt="Follow on Instagram"></a> <a href="javascript:;" class="share__link tweet-icon" target="_blank" alt="Follow on Twitter"></a> <a href="javascript:;" class="share__link linkedin-icon" target="_blank" alt="Connect on LinkedIn"></a> <a href="javascript:;" class="share__link youtube-icon" target="_blank" alt="Follow us on YouTube"></a> </span> </article>
               </div>
               <div class="ftr-cat-links-col show-for-medium-only">
                 <div class="ftr-cat-header"> <a href="javascript:;" class="share__link face-icon" target="_blank" alt="Like on Facebook"></a> <a href="javascript:;" class="share__link insta-icon" target="_blank" alt="Follow on Instagram"></a> <a href="javascript:;" class="share__link tweet-icon" target="_blank" alt="Follow on Twitter"></a> <a href="javascript:;" class="share__link linkedin-icon" target="_blank" alt="Connect on LinkedIn"></a> <a href="javascript:;" class="share__link youtube-icon" target="_blank" alt="Follow us on YouTube"></a> </div>
@@ -168,12 +120,12 @@
         </div>
       </footer>
       <div class="rightcalltoaction">
-        <a href="javascript:;" onclick="setButtonURL()"><i class="fa fa-comment-o" aria-hidden="true"></i></a>
-        <a href="tel:19738703610"><i class="fa fa-phone" aria-hidden="true"></i></a>
+        <a href="javascript:;"><i class="fa fa-comment-o" aria-hidden="true"></i></a>
+        <a href="javascript:;"><i class="fa fa-phone" aria-hidden="true"></i></a>
       </div>
       <div class="floatbutton">
         <div class="clickbutton">
-          <div class="crossplus">Avail 50% Discount</div>
+          <div class="crossplus"> Avail 50% Discount</div>
         </div>
         <div class="banner-form">
           <h3>Chat With Us to <br>
@@ -211,10 +163,11 @@
                           document.getElementById('location').value = window.location.href;
                           </script>
                           <input type="hidden" name="hiddencapcha" value="">
+                          <input type="hidden" id="location" name="locationURL" value="http://logodesignhub.co.uk/logodesignhub-revamp/" />
+                          <input type="hidden" name="hiddencapcha" value="">
                            <input type="hidden" name="pc" value="">
                 <input type="hidden" name="cip" value="">
                 <input type="hidden" name="ctry" value="">
-                          <input type="hidden" id="location" name="locationURL" value="http://logodesignhub.co.uk/logodesignhub-revamp/" />
                         </div>
                       </div>
                     </div>
@@ -230,8 +183,8 @@
         <p>
           <img src="assets/images/arrow-limitedtime.gif" class="limit">
           <img src="assets/images/circle-big.gif" class="circle">
-          <span>$</span> 300 </p>
-          <a href="<?php echo $path;?>gift.php" class="chatbtn linddbtn"><i class="fa fa-an"></i> Avail special discount now</a>
+          <span>$</span> 1099 </p>
+          <a href="<?php echo $path;?>gift" class="chatbtn linddbtn"><i class="fa fa-an"></i> Avail special discount now</a>
         </div>
         <div class="book-call-ys-layer"></div>
         <div class="book-call-ys-container" id="ys-container">
@@ -284,8 +237,19 @@
       <script type="text/javascript">
 
       
+      // $(".header .header_nav ul li.hasdropdown").click(function(){
+      // $('.header .header_nav ul li.hasdropdown ul.submenu').toggleClass("active");
+      // $('.crossplus').toggleClass("rotate");
+      // });
+
+
       $(".header .header_nav ul li.hasdropdown").click(function(){
       $('.header .header_nav ul li.hasdropdown ul.submenu').toggleClass("active");
+      $('.crossplus').toggleClass("rotate");
+      });
+
+      $(".header .header_nav ul li.hasdropdown.hasdropdown1").click(function(){
+      $('.header .header_nav ul li.hasdropdown.hasdropdown1 ul.submenu.submenu2').toggleClass("active");
       $('.crossplus').toggleClass("rotate");
       });
 
@@ -509,13 +473,6 @@
         }
       ]
       });
-      
-      
-      if($(document).width()<500){
-          $('.workSlider').slick('slickRemove', 1);
-        $('.workSlider').slick('slickRemove', 0);
-      }
-
 
       $('.testiSlide').slick({
       centerMode: true,
@@ -601,11 +558,12 @@
       //$('.crossplus').toggleClass("rotate");
       });
   
-  
+    
 
 
       </script>
-  <!--Start of Tawk.to Script-->
+      
+      <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -620,19 +578,18 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
 
 <script type="text/javascript">
-function setButtonURL(){
-// javascript:$zopim.livechat.window.show();
-Tawk_API.toggle();
-}
-$(document).on("click",".chatbtn",function(){
-   //   javascript:$zopim.livechat.window.show();
-   Tawk_API.toggle();
-});
-$(document).on("click",".chat_tigger",function(){
-//   $zopim.livechat.window.toggle();
-Tawk_API.toggle();
-});
+    function setButtonURL(){
+
+    //CUGICHelper.bubbleChat.toggle();
+    
+    //$zopim.livechat.window.toggle();
+    
+    //LC_API.open_chat_window();
+    Tawk_API.toggle();
+    //tidioChatApi.open();
+    }
 </script>
+
 
     </div>
   </div>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Home Page | Brandname</title>
-<meta name="description" content="">
+<title>GET TOP-NOTCH, EXTENSIVELY, INNOVATIVE MOBILE APP SOLUTION</title>
+<meta name="description" content="In this really techie era, we can help you to craft some excellent mobile application for your business & start-ups.">
 <?php
 $srcurl = "includes/";
 $basesurl = "assets/";
@@ -15,7 +15,7 @@ $urhere = "homepage";
 ?>
 </head>
 
-<body class="mode-disabled generic-template services_page">
+<body class="mode-disabled generic-template services_page mbpg" data-val="MobileAppDevelopment">
 <?php
 $header = $_SERVER['HTTP_HOST']; 
 $header = $srcurl."header.php"; 
@@ -31,27 +31,33 @@ include($header);
   <div class="contain">
     <div class="generic-block section">
       <div id="gtm-hero learn-hero_" class="hidden"></div>
-      <div class="generic-block-wrapper lazy-bg  block block--black block--left generic-block--auto  padding-top-hundred-fifty padding-bottom-hundred-fifty gtm-hero learn-hero clearfix" style="background-image: url('assets/images/gtm-hero-learn-2.jpg'); background-position:center; background-size:cover;background-repeat:no-repeat;">
+      <div class="generic-block-wrapper lazy-bg  block block--black block--left generic-block--auto  padding-top-hundred-fifty padding-bottom-hundred-fifty gtm-hero learn-hero clearfix" style="background-image: url('assets/images/mobile-app-development.png'); background-position:center; background-size:cover;background-repeat:no-repeat;">
         <div class="main clearfix">
           <div class="content clearfix">
             <div class="column-control section">
               <div>
-                <div class="container column-control-container ">
-                  <div class="row large       column-control--super-wide paddingleft70">
+                <div class="container column-control-container">
+                  <div class="row large column-control--super-wide paddingleft70">
                     <div class="large-7 columns ">
                       <div class="title2 section">
                         <div data-emptytext="Title">
-                          <h1 class="desk-font-size-2 title--ultra newheading" > Don’t just build something. Build the right thing. <img src="assets/images/circle-pink.png"></h1>
+                          <h1 class="desk-font-size-2 title--ultra newheading" > Get top-notch, extensively, innovative mobile app solution<img src="assets/images/circle-pink.png"></h1>
                         </div>
                       </div>
                       <div class="text-4 text section">
                         <div class="cmp-text">
-                          <p><span class="fs--medium"><span class="tc-white">Whether you are a start-up or an enterprise business, our expertise in 360 web and mobile solutions and digital branding will turn your ideas into online success.</span></span></p>
+                          <p><span class="fs--medium"><span class="tc-white">In this really techie era, we can help you to craft some excellent mobile application for your business & start-ups. </span></span></p>
+                          <ul>
+                            <li>Exclusive app structure keeping your users in mind</li>
+                            <li>Customization of different platforms for an app</li>
+                            <li>Best mobile app development tools to keep your business stay ahead.</li>
+                            <li>Friendly policies for your app development process</li>
+                          </ul>
                         </div>
                       </div>
                       <div class="ps-button section">
                         <div data-emptytext="Button">
-                          <div> <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website & grow your business </a> <img src="assets/images/arrow-monies.gif" style="margin: -70px 0 0 -40px;z-index: 9;position: relative;
+                          <div> <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  we will craft your dream app the way you want </a> <img src="assets/images/arrow-monies.gif" style="margin: -70px 0 0 -40px;z-index: 9;position: relative;
     width: 60px;"> <img src="assets/images/rateimg.png" style="margin: 0 0 0 5px;"></div>
                         </div>
                       </div>
@@ -105,7 +111,7 @@ include($header);
                                           <div class="video-component  white-black-play-btn video-aem">
                                             <div>
                                               <div class="video-component--custom">
-                                                <img src="assets/images/home-collage-v2.png" alt="Image" /> 
+                                                <img src="assets/images/mobile-collage-v2.png" alt="Image" /> 
                                               </div>
                                             </div>
                                           </div>
@@ -161,13 +167,13 @@ include($header);
                                         </div>
                                         <div class="title2 section">
                                           <div data-emptytext="Title">
-                                            <h2 class="title--ultra "> We build it with you. </h2>
+                                            <h2 class="title--ultra "> We Are The Innovators </h2>
                                           </div>
                                         </div>
                                         <div class="text-6 text section">
                                           <div class="cmp-text">
-                                            <img src="assets/images/build-logos-1.png" style="margin: 0 auto 30px;max-width: 60%;display: block;">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">We’ve worked hard to evolve in parallel with web technology, and we don’t play favorites with platforms or tools - we play to win.</span></span></p>
+                                            <img src="assets/images/build-mobileapp-1.png" style="margin: 0 auto 30px;max-width: 60%;display: block;">
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">The process of mobile app development needs creativity, skills, and viability all together. Whether you want to go with iOS, Android or AR/VR app development.</span></span></p>
                                             <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website & grow your business </a> 
                                           </div>
                                         </div>
@@ -236,837 +242,425 @@ include($portfolio);
                     <li class="current" data-targetit="tabs-wp"> <img src="assets/images/icons/mobile-app-development/ios-development.png"> iOS Development</li>
                     <li data-targetit="tabs-phpd"> <img src="assets/images/icons/mobile-app-development/android-development.png">  Android Development</li>
                     <li data-targetit="tabs-fnd"> <img src="assets/images/icons/mobile-app-development/game-development.png">  Game Development</li> 
-                    <li data-targetit="tabs-dd"> <img src="assets/images/icons/mobile-app-development/hybrid-app-development.png">  Hybrid App Development</li> 
-                    <li data-targetit="tabs-bnd"> <img src="assets/images/icons/mobile-app-development/vr-app-development.png">  VR App Development</li> 
-                    <li data-targetit="tabs-mvp"> <img src="assets/images/icons/mobile-app-development/ar-app-development.png">  AR App Development</li> 
-                    <li data-targetit="tabs-osd"> <img src="assets/images/icons/mobile-app-development/react-native.png">  React Native</li> 
-                    <li data-targetit="tabs-cmsd"> <img src="assets/images/icons/mobile-app-development/angular.png">  Angular</li>   
-               </ul>
-              <div class="mytabs tabs-wp current">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">  Wordpress Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-phpd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra "> PHP Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-fnd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   Front End Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-dd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra "> Drupal Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-bnd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   Back End Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-mvp">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   Minimal Viable Products  </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-osd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   Open Source Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-               <div class="mytabs tabs-cmsd">
-                <div class="container column-control-container ">
-                  <div class="row large  add-flex     column-control--super-wide">
-                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="video parbase section">
-                                          <div class="video-component  white-black-play-btn video-aem">
-                                            <div>
-                                              <div class="video-component--custom">
-                                                <img src="assets/images/mac-desktop.png" class="pullright">
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
-                      <div class="generic-block section">
-                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
-                          <div class="main clearfix">
-                            <div class="content clearfix">
-                              <div class="animation-wrapper section">
-                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
-                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
-                                    <div class="main clearfix">
-                                      <div class="clearfix">
-                                        <div class="spacer section">
-                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
-                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
-                                          <div class="spacer show-for-small-only" style="height:50px"></div>
-                                        </div>
-                                        <div class="title2 section">
-                                          <div data-emptytext="Title">
-                                            <h2 class="title--ultra ">   CMS Development </h2>
-                                          </div>
-                                        </div>
-                                        <div class="text-4 text section">
-                                          <div class="cmp-text">
-                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</span></span></p>
-                                            <ul class="newlist">
-                                            <li>
-                                              <figure>
-                                                <img src="assets/images/iq-test-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Validation</h3>
-                                                <p>We help our clients build great products through the process of brainstorming together.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/channels-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Rapid agile development</h3>
-                                                <p>We stick to the principles of agile development and divide the project into short sprints, so that we can walk you through a new version of the tested website.</p>
-                                              </article>
-                                            </li>
-                                            <li>
-                                              <figure>
-                                                 <img src="assets/images/hands-on-learning-icon1.png">
-                                              </figure>
-                                              <article>
-                                                <h3>Deployment and grow</h3>
-                                                <p>We consider your project as our top most priority and to make sure that everything runs smoothly and without any glitches when it goes live.</p>
-                                              </article>
-                                            </li>
-                                          
-                                            </ul>
-                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                       
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+                    <li data-targetit="tabs-dd"> <img src="assets/images/icons/mobile-app-development/vr-app-development.png">  VR/VR App Development</li> 
 
+               </ul>
+              <div class="mytabs tabs-wp current" id="tabs-wp">
+                <div class="container column-control-container ">
+                  <div class="row large  add-flex     column-control--super-wide">
+                    <div class="large-7 columns large-push-5 customPadding" style="padding-right: 50px;">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="video parbase section">
+                                          <div class="video-component  white-black-play-btn video-aem">
+                                            <div>
+                                              <div class="video-component--custom">
+                                                <img src="assets/images/ios-development.png" class="pullright">
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="spacer section">
+                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
+                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
+                                          <div class="spacer show-for-small-only" style="height:50px"></div>
+                                        </div>
+                                        <div class="title2 section">
+                                          <div data-emptytext="Title">
+                                            <h2 class="title--ultra ">  iOS Development </h2>
+                                          </div>
+                                        </div>
+                                        <div class="text-4 text section">
+                                          <div class="cmp-text">
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">The demand for iPhone devices is growing on a global scale as this is judged to be the device for the elite.</span></span></p>
+                                            <ul class="newlist">
+                                            <li>
+                                              <figure>
+                                                <img src="assets/images/iq-test-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Secure and Reliable</h3>
+                                                <p>iOS is the most secure platform in terms of mobile app development. It gives users a strong protection of security against some viruses and malware so it is the perfect choice for app development.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/channels-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Better User Experience</h3>
+                                                <p>iOS is known to provide the best user experience in the world to its mobile users. The stringent guidelines of an app store are one different way that pushes app developers.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/hands-on-learning-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Tech-savvy Audience</h3>
+                                                <p>iOS has been the first choice for small to enterprise business owners or entrepreneurs and tech-savvy audience.</p>
+                                              </article>
+                                            </li>
+                                          
+                                            </ul>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                       
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+               <div class="mytabs tabs-phpd" id="tabs-phpd">
+                <div class="container column-control-container ">
+                  <div class="row large  add-flex     column-control--super-wide">
+                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="video parbase section">
+                                          <div class="video-component  white-black-play-btn video-aem">
+                                            <div>
+                                              <div class="video-component--custom">
+                                                <img src="assets/images/android-development.png" class="pullright">
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="spacer section">
+                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
+                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
+                                          <div class="spacer show-for-small-only" style="height:50px"></div>
+                                        </div>
+                                        <div class="title2 section">
+                                          <div data-emptytext="Title">
+                                            <h2 class="title--ultra "> Android Development </h2>
+                                          </div>
+                                        </div>
+                                        <div class="text-4 text section">
+                                          <div class="cmp-text">
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">Android gives you everything that you need in terms of application development. It automatically enhances your UI on different mobile devices.</span></span></p>
+                                            <ul class="newlist">
+                                            <li>
+                                              <figure>
+                                                <img src="assets/images/iq-test-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Open Source</h3>
+                                                <p>Android is an open source platform which allows developers to develops apps very easily.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/channels-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Large User Base</h3>
+                                                <p>This allows you to reach out to a higher section of the android users and improve your market perception.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/hands-on-learning-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Customizable User Interface</h3>
+                                                <p>Apps developed on Android platform are highly customizable and simple to manage. Even the data management and multimedia tools can be simply updated.</p>
+                                              </article>
+                                            </li>
+                                          
+                                            </ul>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                       
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+               <div class="mytabs tabs-fnd" id="tabs-fnd">
+                <div class="container column-control-container ">
+                  <div class="row large  add-flex     column-control--super-wide">
+                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="video parbase section">
+                                          <div class="video-component  white-black-play-btn video-aem">
+                                            <div>
+                                              <div class="video-component--custom">
+                                                <img src="assets/images/game-development.png" class="pullright">
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="spacer section">
+                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
+                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
+                                          <div class="spacer show-for-small-only" style="height:50px"></div>
+                                        </div>
+                                        <div class="title2 section">
+                                          <div data-emptytext="Title">
+                                            <h2 class="title--ultra ">   Game Development </h2>
+                                          </div>
+                                        </div>
+                                        <div class="text-4 text section">
+                                          <div class="cmp-text">
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">As the most popular category of app, games have the potential to reach an incredible number of users.</span></span></p>
+                                            <ul class="newlist">
+                                            <li>
+                                              <figure>
+                                                <img src="assets/images/iq-test-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Unity Game Development</h3>
+                                                <p>For rapid and reliable game development, Unity is often the engine of choice for mobile game companies.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/channels-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>2D & 3D Game Development</h3>
+                                                <p>Millions of users of Android and iOS have prompted developers to reinvent 2D and 3D games.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/hands-on-learning-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>AR/VR Game Development</h3>
+                                                <p>Augmented reality is an innovative bait for picky gamers adding extra interactivity to your app.</p>
+                                              </article>
+                                            </li>
+                                          
+                                            </ul>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                       
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+               <div class="mytabs tabs-dd" id="tabs-dd">
+                <div class="container column-control-container ">
+                  <div class="row large  add-flex     column-control--super-wide">
+                    <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-HrXsbNps" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="100">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="video parbase section">
+                                          <div class="video-component  white-black-play-btn video-aem">
+                                            <div>
+                                              <div class="video-component--custom">
+                                                <img src="assets/images/vr-development.png" class="pullright">
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="large-5 columns large-pull-7 customPadding" style="padding-left: 50px; ">
+                      <div class="generic-block section">
+                        <div class="generic-block-wrapper lazy-bg  block autoheight block--transparent block--left  generic-block--vertical-center padding-top-zero padding-bottom-zero clearfix">
+                          <div class="main clearfix">
+                            <div class="content clearfix">
+                              <div class="animation-wrapper section">
+                                <div class="animation-wrapper-container rellax animation-unique-XtwCRLpR" data-rellax-speed="0">
+                                  <div data-aos="fade-up" data-aos-duration="400" data-aos-delay="0">
+                                    <div class="main clearfix">
+                                      <div class="clearfix">
+                                        <div class="spacer section">
+                                          <div class="spacer hide-for-small-only hide-for-medium-only" style="height:0px"></div>
+                                          <div class="spacer show-for-medium-only" style="height:50px"></div>
+                                          <div class="spacer show-for-small-only" style="height:50px"></div>
+                                        </div>
+                                        <div class="title2 section">
+                                          <div data-emptytext="Title">
+                                            <h2 class="title--ultra "> AR/VR App Development </h2>
+                                          </div>
+                                        </div>
+                                        <div class="text-4 text section">
+                                          <div class="cmp-text">
+                                            <p><span class="fs--normal"><span class="remove-bottom-margin">It is a dual mixture of digital and the real world that gives inception to the new world.</span></span></p>
+                                            <ul class="newlist">
+                                            <li>
+                                              <figure>
+                                                <img src="assets/images/iq-test-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Gesture and motion</h3>
+                                                <p>As close to magic as it gets. Users interact simply by moving their bodies and hands.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/channels-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Dynamic visual surfaces</h3>
+                                                <p>Unique projection-mapped sculptures and larger-than-life video walls create the foundation for a better-than-real-life experience.</p>
+                                              </article>
+                                            </li>
+                                            <li>
+                                              <figure>
+                                                 <img src="assets/images/hands-on-learning-icon1.png">
+                                              </figure>
+                                              <article>
+                                                <h3>Activated spaces and places</h3>
+                                                <p>Immersion rooms, innovation labs, and brand environments–designed to holistically deliver a deeper look into the Brand Story. An architected space for messages to come alive.</p>
+                                              </article>
+                                            </li>
+                                          
+                                            </ul>
+                                            <a href="" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website &amp; grow your business </a>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                       
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+               
+               
+               
          
 
             </div>
@@ -1113,8 +707,8 @@ include($testimonials);
                               <div class="clearfix">
                                 <div class="title2 section">
                                   <div data-emptytext="Title">
-                                    <h2 class="title--white title--ultra disableBottomMargin"> Looking for a custom solution?</h2>
-                                      <p>Expert code is critical — but you can’t build just it and forget it. WebsiteDok keeps you moving and improving with digital innovation. Let’s Discover and Envision what’s next.</p>
+                                    <h2 class="title--white title--ultra disableBottomMargin"> We will transform your app idea into an extraordinary design.</h2>
+                                      <p>The prototypes & wire-frames of the mobile app are designed as per the specifications of business standards by our experts.</p>
                                       <a href="" target="_self" class="button  button--black 11  " data-aa-title="start-a-free-trial-foot"> Request a free custom quote </a>
                                   </div>
                                 </div>

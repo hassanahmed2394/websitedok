@@ -6,7 +6,7 @@
           <div class="col-lg-8 offset-lg-2 inner-content text-left">
               <div class="form-box-main clearfix">
                 <h2>We would like to hear from you</h2>
-                <p>Heads up! We require that you sign up for Logo Design Hub services and packages.<br> We make all your dreams come true in a successful project.</p>
+                <p>Heads up! We require that you sign up for websitedok services and packages.<br> We make all your dreams come true in a successful project.</p>
                 <form class="cmxform" id="contactForm"  method="POST" action="webpages/orderFormController.php"  enctype="multipart/form-data">
                   <div class="row">
                     <div class="col-md-12">
@@ -43,6 +43,9 @@
 
 <option  value="Website Maintenance -  Basic Package - $99.00" pack="10"> Website Maintenance -  Basic Package - $99.00</option>
  <option  value="Website Maintenance Enterprise Package - $1900.00" pack="11"> Website Maintenance Enterprise Package - $199.00</option>
+  <option  value="Video Animation Special Video Packages - $149.00" pack="12"> Video Special Video Packages  - $149.00</option>
+   <option  value="Video Animation Startup Video Package - $399.00" pack="13">Video Animation Startup Video Package - $399.00</option>
+    <option  value="Video Animation Classic Video Packages - $799.00" pack="14"> "Video Animation Classic Video Packages - $799.00</option>
 
 
 

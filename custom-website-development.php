@@ -15,7 +15,7 @@ $urhere = "homepage";
 ?>
 </head>
 
-<body class="mode-disabled generic-template services_page">
+<body class="mode-disabled generic-template services_page" data-val="main_WebsiteDesignDevelopment">
 <?php
 $header = $_SERVER['HTTP_HOST']; 
 $header = $srcurl."header.php"; 
@@ -166,7 +166,7 @@ include($header);
                                         </div>
                                         <div class="text-6 text section">
                                           <div class="cmp-text">
-                                            <img src="assets/images/build-logos-1.png" style="margin: 0 auto 30px;max-width: 60%;display: block;">
+                                            <img src="assets/images/build-customweb-1.png" style="margin: 0 auto 30px;max-width: 60%;display: block;">
                                             <p><span class="fs--normal"><span class="remove-bottom-margin">We’ve worked hard to evolve in parallel with web technology, and we don’t play favorites with platforms or tools - we play to win.</span></span></p>
                                             <a href="javascript:;" onclick="setButtonURL();" target="_self" class="button button--black button--large" data-aa-title="start-a-free-trial">  Build a website & grow your business </a> 
                                           </div>
@@ -242,7 +242,7 @@ include($portfolio);
                     <li data-targetit="tabs-osd"> <img src="assets/images/icons/custom-website-development/open-source-development.png">  Open Source Development</li> 
                     <li data-targetit="tabs-cmsd"> <img src="assets/images/icons/custom-website-development/cms-development.png">  CMS Development</li>   
                </ul>
-              <div class="mytabs tabs-wp current">
+              <div class="mytabs tabs-wp current" id="tabs-wp">
                 <div class="container column-control-container">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -345,7 +345,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-phpd">
+               <div class="mytabs tabs-phpd" id="tabs-phpd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -448,7 +448,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-fnd">
+               <div class="mytabs tabs-fnd" id="tabs-fnd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -552,7 +552,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-dd">
+               <div class="mytabs tabs-dd" id="tabs-dd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -655,7 +655,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-bnd">
+               <div class="mytabs tabs-bnd" id="tabs-bnd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -758,7 +758,7 @@ include($portfolio);
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-mvp">
+               <div class="mytabs tabs-mvp" id="tabs-mvp">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -862,7 +862,7 @@ We can build a simple version of your website, web or mobile app in a matter of 
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-osd">
+               <div class="mytabs tabs-osd" id="tabs-osd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">
@@ -966,7 +966,7 @@ our team build customized solitons and application tailored for your unique busi
                   </div>
                 </div>
               </div>
-               <div class="mytabs tabs-cmsd">
+               <div class="mytabs tabs-cmsd" id="tabs-cmsd">
                 <div class="container column-control-container ">
                   <div class="row large  add-flex     column-control--super-wide">
                     <div class="large-7 columns large-push-5 customPadding" style=" padding-right: 50px;">

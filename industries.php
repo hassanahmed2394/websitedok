@@ -75,7 +75,7 @@ include($header);
           <img src="assets/images/industry-section-two.png">
         </div>
         <div class="col">
-          <img src="assets/images/advertising.png" alt="" class="icon">
+          <img src="assets/images/advertising1.png" alt="" class="icon">
           <article>
           <h3>Advertising</h3>
           <p>Excel your ROI by reaching your targeted audience all over the world with strategic advertising campaigns made especially for your business.</p>
@@ -198,7 +198,7 @@ include($header);
         <ul>
           <li>
             <div class="crte-prf">
-              <h3>Looking for a Logo Design Services?</h3>
+              <h3>Looking for a Website Design Services?</h3>
               <p>Get in touch with our 24/7 available representatives now!</p>
             </div>
           </li>
